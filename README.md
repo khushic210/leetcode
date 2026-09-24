@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khushic210/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/khushic210/leetcode/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/khushic210/leetcode/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/khushic210/leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
