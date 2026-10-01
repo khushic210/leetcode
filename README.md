@@ -48,4 +48,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushic210/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 <!---LeetCode Topics End-->
