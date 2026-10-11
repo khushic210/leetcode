@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushic210/leetcode/tree/master/0001-two-sum) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Greedy
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushic210/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/khushic210/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
