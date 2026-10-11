@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/khushic210/leetcode/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khushic210/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushic210/leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khushic210/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Greedy
 |  |
