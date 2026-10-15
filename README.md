@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
 | [0872-leaf-similar-trees](https://github.com/khushic210/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushic210/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushic210/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushic210/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushic210/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushic210/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushic210/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushic210/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
 | [0643-maximum-average-subarray-i](https://github.com/khushic210/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Greedy
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushic210/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/khushic210/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
