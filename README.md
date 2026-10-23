@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushic210/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
 | [0643-maximum-average-subarray-i](https://github.com/khushic210/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/khushic210/leetcode/tree/master/0724-find-pivot-index) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Greedy
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/khushic210/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
