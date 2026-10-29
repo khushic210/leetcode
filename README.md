@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khushic210/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushic210/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushic210/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/khushic210/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/khushic210/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/khushic210/leetcode/tree/master/0724-find-pivot-index) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khushic210/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/khushic210/leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushic210/leetcode/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khushic210/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
